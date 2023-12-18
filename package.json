@@ -1,0 +1,12 @@
+{
+  "name": "KarlygashS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "cd src/scripts && yarn tsc && node geron && cd ../.."
+  },
+  "devDependencies": {
+    "typescript": "5.2.2"
+  }
+}
